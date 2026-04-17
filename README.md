@@ -44,6 +44,41 @@ Place your finalized architecture image at:
 
 
 
+## Adaptive Baseline Design Evidence
+
+These plots directly demonstrate why adaptive baseline logic is used in this project.
+
+Place these figures at:
+
+- docs/images/adaptive-trajectory-engine1.png
+- docs/images/real-baselines-comparison-engine3.png
+- docs/images/multi-engine-degradation-trends.png
+- docs/images/different-baselines-per-engine.png
+
+### 1) Degradation Trajectory with Adaptive Threshold (Engine 1)
+
+Shows anomaly-score progression across cycles and where adaptive thresholding separates normal behavior from degradation growth.
+
+![Degradation Trajectory Engine 1](docs/images/adaptive-trajectory-engine1.png)
+
+### 2) Real Baselines Comparison (Engine 3)
+
+Compares raw anomaly score against adaptive baseline and global baseline, highlighting why engine-specific adaptive baselines are more realistic.
+
+![Real Baselines Comparison Engine 3](docs/images/real-baselines-comparison-engine3.png)
+
+### 3) Multi-Engine Degradation Trends
+
+Illustrates distinct degradation rates across engines, supporting per-engine monitoring and fog-level prioritization.
+
+![Degradation Trends Across Multiple Engines](docs/images/multi-engine-degradation-trends.png)
+
+### 4) Different Baselines per Engine
+
+Summarizes per-engine baseline variation, reinforcing the need for individualized baseline modeling.
+
+![Different Baselines per Engine](docs/images/different-baselines-per-engine.png)
+
 ## Dashboard Screenshots
 
 <img width="824" height="1377" alt="image" src="https://github.com/user-attachments/assets/95abd79f-ee52-4a85-8a42-5d5cdf7eafe4" />
