@@ -38,11 +38,7 @@ Edge-Fog-Cloud monitoring system for real-time engine degradation detection with
 
 ## Architecture Diagram
 
-Place your finalized architecture image at:
-
-- docs/images/architecture-diagram.png
-
-
+<img width="824" height="1377" alt="image" src="https://github.com/user-attachments/assets/95abd79f-ee52-4a85-8a42-5d5cdf7eafe4" />
 
 ## Adaptive Baseline Design Evidence
 
@@ -84,8 +80,6 @@ Summarizes per-engine baseline variation, reinforcing the need for individualize
 <img width="940" height="315" alt="image" src="https://github.com/user-attachments/assets/08226fd9-4fe9-41f7-89c6-f28c4be9c2ed" />
 
 ## Dashboard Screenshots
-
-<img width="824" height="1377" alt="image" src="https://github.com/user-attachments/assets/95abd79f-ee52-4a85-8a42-5d5cdf7eafe4" />
 
 ### Dashboard Overview
 
