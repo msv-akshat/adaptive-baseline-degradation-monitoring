@@ -42,31 +42,23 @@ Place your finalized architecture image at:
 
 - docs/images/architecture-diagram.png
 
-README slot:
 
-![Adaptive Edge-Fog-Cloud Architecture](docs/images/architecture-diagram.png)
 
 ## Dashboard Screenshots
 
-Place your dashboard screenshots at:
-
-- docs/images/dashboard-overview.png
-- docs/images/dashboard-trends-and-alerts.png
-- docs/images/alarms-list.png
-
-README slots:
+<img width="824" height="1377" alt="image" src="https://github.com/user-attachments/assets/95abd79f-ee52-4a85-8a42-5d5cdf7eafe4" />
 
 ### Dashboard Overview
 
-![Degradation Dashboard Overview](docs/images/dashboard-overview.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1a716bc1-7da1-4efe-912a-e5edbdbc2d5b" />
 
 ### Trends and Active Alerts
 
-![Trend Panels and Active Alerts](docs/images/dashboard-trends-and-alerts.png)
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/f560d8ec-dc1e-4c8f-9777-91c6a86b7a43" />
 
 ### Alarm List
 
-![ThingsBoard Alarm List](docs/images/alarms-list.png)
+<img width="940" height="219" alt="image" src="https://github.com/user-attachments/assets/e4179d7b-d290-49ca-8997-14d0684eff8f" />
 
 ## End-to-End Data Flow
 
