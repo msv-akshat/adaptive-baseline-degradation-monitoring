@@ -59,25 +59,29 @@ Place these figures at:
 
 Shows anomaly-score progression across cycles and where adaptive thresholding separates normal behavior from degradation growth.
 
-![Degradation Trajectory Engine 1](docs/images/adaptive-trajectory-engine1.png)
+<img width="940" height="507" alt="image" src="https://github.com/user-attachments/assets/177430bf-5a1a-4e8a-8aba-1c43864956ff" />
 
 ### 2) Real Baselines Comparison (Engine 3)
 
 Compares raw anomaly score against adaptive baseline and global baseline, highlighting why engine-specific adaptive baselines are more realistic.
 
-![Real Baselines Comparison Engine 3](docs/images/real-baselines-comparison-engine3.png)
+<img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/400fd7fd-f686-4af2-9bff-bffdc05db536" />
 
 ### 3) Multi-Engine Degradation Trends
 
 Illustrates distinct degradation rates across engines, supporting per-engine monitoring and fog-level prioritization.
 
-![Degradation Trends Across Multiple Engines](docs/images/multi-engine-degradation-trends.png)
+<img width="940" height="596" alt="image" src="https://github.com/user-attachments/assets/25c49f75-c92c-4067-b80a-90b2e6a7b532" />
 
 ### 4) Different Baselines per Engine
 
 Summarizes per-engine baseline variation, reinforcing the need for individualized baseline modeling.
 
-![Different Baselines per Engine](docs/images/different-baselines-per-engine.png)
+<img width="940" height="639" alt="image" src="https://github.com/user-attachments/assets/8ce591a7-bcf6-45dd-b301-2b739fd12d7f" />
+
+### 5) CNN - GRU Autoencoder Model Performance
+
+<img width="940" height="315" alt="image" src="https://github.com/user-attachments/assets/08226fd9-4fe9-41f7-89c6-f28c4be9c2ed" />
 
 ## Dashboard Screenshots
 
